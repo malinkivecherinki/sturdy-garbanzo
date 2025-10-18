@@ -1,12 +1,12 @@
 # Project
 
-## Update 47
+## Update 52
 
 This project includes various utilities and tools.
 
 ### Features
 
-- Feature 47
+- Feature 52
 - Utility functions
 - Configuration management
 
@@ -24,9 +24,4 @@ const utils = require('./src/utils');
 
 ### Changelog
 
-- Update 47: Added new features and improvements
-
-
-## Update 49
-
-Added new features and improvements in update 49.
+- Update 52: Added new features and improvements
