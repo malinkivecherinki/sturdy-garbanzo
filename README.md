@@ -1,27 +1,32 @@
-# Project
+# HealthMonitor
 
-## Update 72
+System health monitoring and alerting
 
-This project includes various utilities and tools.
+## Features
 
-### Features
+- Core functionality implementation
+- Well-documented codebase
+- Easy to use API
+- Extensible architecture
 
-- Feature 72
-- Utility functions
-- Configuration management
-
-### Installation
+## Installation
 
 \`\`\`bash
 npm install
+# or
+pip install -r requirements.txt
 \`\`\`
 
-### Usage
+## Usage
 
 \`\`\`javascript
-const utils = require('./src/utils');
+const HealthMonitor = require('./src/index');
 \`\`\`
 
-### Changelog
+## Development
 
-- Update 72: Added new features and improvements
+This project is actively maintained and developed.
+
+## License
+
+MIT
