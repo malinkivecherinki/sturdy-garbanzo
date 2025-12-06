@@ -1,12 +1,12 @@
 # Project
 
-## Update 26
+## Update 27
 
 This project includes various utilities and tools.
 
 ### Features
 
-- Feature 26
+- Feature 27
 - Utility functions
 - Configuration management
 
@@ -24,4 +24,4 @@ const utils = require('./src/utils');
 
 ### Changelog
 
-- Update 26: Added new features and improvements
+- Update 27: Added new features and improvements
